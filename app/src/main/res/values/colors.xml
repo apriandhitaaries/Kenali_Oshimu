@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="redJKT">#CD0C0D</color>
+    <color name="pink">#FF89B5</color>
+    <color name="colorSubtitle">#757575</color>
+    <color name="tiktok">#14171A</color>
+    <color name="instagram">#E1306C</color>
+    <color name="twitter">#1DA1F2</color>
+</resources>

@@ -1,0 +1,219 @@
+<resources>
+    <string name="app_name">Kenali Oshimu</string>
+    <string name="oshi_name">Nama Oshi</string>
+    <string name="description">Generasi</string>
+    <string name="jikoshoukai">Jikoshoukai</string>
+    <string name="biodata">Biodata</string>
+    <string name="about">About</string>
+    <string name="about_name">Apriadhita Aries Prayoga</string>
+    <string name="email">apriandhita.belajar@gmail.com</string>
+    <string name="blood_type">Golongan Darah</string>
+    <string name="horoscope">Horoskop</string>
+    <string name="birthday">Tanggal Lahir</string>
+    <string name="height">Tinggi Badan</string>
+    <string name="nickname">Nama Panggilan</string>
+    <string name="ofc_fanbase">Official Fanbase</string>
+    <string name="share">Bagikan</string>
+    <string name="sosmed">Sosial Media</string>
+    <string name="instagram">Instagram</string>
+    <string name="tiktok">TikTok</string>
+    <string name="twitter">Twitter</string>
+
+    <string-array name="data_name">
+        <item>Shani Indira Natio</item>
+        <item>Gita Sekar Andarini</item>
+        <item>Angelina Christy</item>
+        <item>Azizi Asadel</item>
+        <item>Freya Jayawardhana</item>
+        <item>Cornelia Vanisa</item>
+        <item>Reva Fidela</item>
+        <item>Marsha Lenathea</item>
+        <item>Callista Alifia</item>
+        <item>Gabriela Abigail</item>
+        <item>Grace Octaviani</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Generasi 3</item>
+        <item>Generasi 6</item>
+        <item>Generasi 7</item>
+        <item>Generasi 7</item>
+        <item>Generasi 7</item>
+        <item>Generasi 8</item>
+        <item>Generasi 8</item>
+        <item>Generasi 9</item>
+        <item>Generasi 10</item>
+        <item>Generasi 10</item>
+        <item>Generasi 11</item>
+    </string-array>
+
+    <string-array name="data_jikoshoukai">
+        <item>Semanis coklat selembut sutra, Halo semuanya, aku Shani!</item>
+        <item>Diam bukan berarti tak memperhatikanmu, aku Gita!</item>
+        <item>Peduli dan berbaik hati, siapa dia? Chriiiis-ty!</item>
+        <item>Si gadis tomboy yang semangatnya meletup-letup! Halo semuanya, aku Zee.</item>
+        <item>Gadis koleris yang suka berimajinasi, terangi harimu dengan senyum karamelku. Halo semua, Aku Freya!</item>
+        <item>Seperti teka-teki kalian akan selalu penasaran denganku. Halo aku Oniel!</item>
+        <item>Bagai kucing yang kalem tapi akan selalu memikat hati kamu. Halo semuanya aku Adel.</item>
+        <item>Seperti pizza yang dinanti-nantikan semua orang, selalu nantikan aku ya! Halo aku Marsha!</item>
+        <item>Si beruang madu, penyuka madu! Hai semuanya aku Callie!</item>
+        <item>Ohayo! Konnichiwa! Oyasumi! Aku ingin ada di setiap harimu. Halo semuanya aku Ella.</item>
+        <item>Manis seperti gulali, imut seperti kelinci. Cie cie cie Gracie!</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/shani_indira_natio</item>
+        <item>@drawable/gita_sekar_andarini</item>
+        <item>@drawable/angelina_christy</item>
+        <item>@drawable/azizi_asadel</item>
+        <item>@drawable/freya_jayawardana</item>
+        <item>@drawable/cornelia_vanisa</item>
+        <item>@drawable/reva_fidela</item>
+        <item>@drawable/marsha_lenathea</item>
+        <item>@drawable/callista_alifia</item>
+        <item>@drawable/gabriela_abigail</item>
+        <item>@drawable/grace_octaviani</item>
+    </integer-array>
+
+    <string-array name="data_nickname">
+        <item>Shani</item>
+        <item>Gita</item>
+        <item>Christy</item>
+        <item>Zee</item>
+        <item>Freya</item>
+        <item>Oniel</item>
+        <item>Adel</item>
+        <item>Marsha</item>
+        <item>Callie</item>
+        <item>Ella</item>
+        <item>Gracie</item>
+    </string-array>
+
+    <string-array name="data_birthday">
+        <item>5 Oktober 1998</item>
+        <item>30 Juni 2001</item>
+        <item>5 Desember 2005</item>
+        <item>16 Mei 2004</item>
+        <item>13 Februari 2006</item>
+        <item>26 Juli 2002</item>
+        <item>14 Juli 2006</item>
+        <item>9 Januari 2006</item>
+        <item>8 Agustus 2005</item>
+        <item>7 Agustus 2006</item>
+        <item>18 Oktober 2007</item>
+    </string-array>
+
+    <string-array name="data_blood_type">
+        <item>B</item>
+        <item>O</item>
+        <item>O</item>
+        <item>O</item>
+        <item>B</item>
+        <item>O</item>
+        <item>A</item>
+        <item>O</item>
+        <item>O</item>
+        <item>B</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="data_horoscope">
+        <item>Libra</item>
+        <item>Cancer</item>
+        <item>Sagitarius</item>
+        <item>Taurus</item>
+        <item>Aquarius</item>
+        <item>Leo</item>
+        <item>Cancer</item>
+        <item>Capricorn</item>
+        <item>Leo</item>
+        <item>Leo</item>
+        <item>Libra</item>
+    </string-array>
+
+    <string-array name="data_height">
+        <item>167 cm</item>
+        <item>165 cm</item>
+        <item>163 cm</item>
+        <item>162 cm</item>
+        <item>154 cm</item>
+        <item>162 cm</item>
+        <item>167 cm</item>
+        <item>163 cm</item>
+        <item>157 cm</item>
+        <item>160 cm</item>
+        <item>165 cm</item>
+    </string-array>
+
+    <string-array name="data_fanbase">
+        <item>Inshanity</item>
+        <item>Gitroops</item>
+        <item>Christyzer</item>
+        <item>Zeemotion</item>
+        <item>Freyanation</item>
+        <item>Onielity</item>
+        <item>Adellion</item>
+        <item>MarshaOshi</item>
+        <item>Callistavers</item>
+        <item>Ellatheria</item>
+        <item>Gracieluv</item>
+    </string-array>
+
+    <string-array name="data_instagram">
+        <item>https://www.instagram.com/jkt48shani/</item>
+        <item>https://www.instagram.com/jkt48gita/</item>
+        <item>https://www.instagram.com/jkt48.christy/</item>
+        <item>https://www.instagram.com/jkt48.zee/</item>
+        <item>https://www.instagram.com/jkt48.freya/</item>
+        <item>https://www.instagram.com/jkt48.oniel/</item>
+        <item>https://www.instagram.com/jkt48.adel/</item>
+        <item>https://www.instagram.com/jkt48.marsha/</item>
+        <item>https://www.instagram.com/jkt48.callie.a/</item>
+        <item>https://www.instagram.com/jkt48.ella.a/</item>
+        <item>https://www.instagram.com/jkt48.gracie/</item>
+    </string-array>
+
+    <string-array name="data_tiktok">
+        <item>https://www.tiktok.com/@shanijkt48/</item>
+        <item>https://www.tiktok.com/@gitajkt48/</item>
+        <item>https://www.tiktok.com/@christyjkt48/</item>
+        <item>https://www.tiktok.com/@zeejkt48/</item>
+        <item>https://www.tiktok.com/@freyajkt48/</item>
+        <item>https://www.tiktok.com/@onieljkt48/</item>
+        <item>https://www.tiktok.com/@adeljkt48/</item>
+        <item>https://www.tiktok.com/@marsha.jkt48/</item>
+        <item>https://www.tiktok.com/@jkt48.callie.a/</item>
+        <item>https://www.tiktok.com/@jkt48.ella.a/</item>
+        <item>https://www.tiktok.com/@graciejkt48/</item>
+    </string-array>
+
+    <string-array name="data_twitter">
+        <item>https://x.com/N_ShaniJKT48?s=20</item>
+        <item>https://x.com/A_GitaJKT48?s=20</item>
+        <item>https://x.com/A_ChristyJKT48?s=20</item>
+        <item>https://x.com/A_ZeeJKT48?s=20</item>
+        <item>https://x.com/Freya_JKT48?s=20</item>
+        <item>https://x.com/C_OnielJKT48?s=20</item>
+        <item>https://x.com/R_AdelJKT48?s=20</item>
+        <item>https://x.com/L_MarshaJKT48?s=20</item>
+        <item>https://x.com/AW_CallieJKT48?s=20</item>
+        <item>https://x.com/AM_EllaJKT48?s=20</item>
+        <item>https://x.com/Gracie_JKT48?s=20</item>
+    </string-array>
+
+    <string-array name="data_share">
+        <item>https://jkt48.com/member/detail/id/112?lang=id</item>
+        <item>https://jkt48.com/member/detail/id/190?lang=id</item>
+        <item>https://jkt48.com/member/detail/id/204?lang=id</item>
+        <item>https://jkt48.com/member/detail/id/200?lang=id</item>
+        <item>https://jkt48.com/member/detail/id/214?lang=id</item>
+        <item>https://jkt48.com/member/detail/id/221?lang=id</item>
+        <item>https://jkt48.com/member/detail/id/232?lang=id</item>
+        <item>https://jkt48.com/member/detail/id/243?lang=id</item>
+        <item>https://jkt48.com/member/detail/id/251?lang=id</item>
+        <item>https://jkt48.com/member/detail/id/252?lang=id</item>
+        <item>https://jkt48.com/member/detail/id/270?lang=id</item>
+    </string-array>
+
+
+</resources>
