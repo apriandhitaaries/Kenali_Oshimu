@@ -1,11 +1,8 @@
 package com.waro.aku
 
-import android.content.Intent
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.waro.aku.databinding.ActivityMainBinding
 import com.waro.aku.databinding.ItemRowOshiBinding
 
 class ListOshiAdapter(private val listOshi: ArrayList<Oshi>) : RecyclerView.Adapter<ListOshiAdapter.ListViewHolder>() {
