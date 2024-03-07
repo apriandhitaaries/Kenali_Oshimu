@@ -29,9 +29,9 @@ class ListOshiAdapter(private val listOshi: ArrayList<Oshi>) : RecyclerView.Adap
     override fun getItemCount(): Int = listOshi.size
 
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
-        val (name, Description, photo) = listOshi[position]
+        val (name, description, photo) = listOshi[position]
         holder.binding.tvItemName.text = name
-        holder.binding.tvItemDescription.text = Description
+        holder.binding.tvItemDescription.text = description
         holder.binding.imgItemPhoto.setImageResource(photo)
 
         holder.itemView.setOnClickListener { onItemClickCallback.onItemClicked(listOshi[holder.adapterPosition]) }
